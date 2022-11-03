@@ -1,0 +1,217 @@
+.container{
+max-width: 1170px;
+width: 100%;
+height: 70px;
+margin: 0 auto;
+
+}
+
+
+
+.myheader{
+display: flex;
+direction: row;
+justify-content: space-between;
+align-items: center;
+
+}
+
+.img1{
+font-size: 50px;
+font-weight: 100px;
+
+
+}
+
+nav{
+width: 700  px;
+
+
+}
+
+ul{
+
+    display: flex;
+direction: row;
+justify-content: space-between;
+align-items: center;
+margin-left: 450px
+
+
+
+}
+
+li{
+font-size: 17px;
+margin-left: 23px;
+}
+
+.fa-bars{
+
+font-size: 30px;
+cursor: pointer;
+display: none;
+
+}
+
+.img2{
+
+width: 100%;
+height: 900px;
+background-image: url(imagees/jens-kreuter-96\ \(2\).png);
+ background-position:center;
+background-size: cover;
+
+}
+
+.img2{
+
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+
+}
+
+.text{
+
+font-size: 100px;
+padding-bottom: 20px;
+}
+
+.text1{
+font-size: 20px;
+
+}
+
+footer{
+    display: flex;
+flex-direction: row;
+justify-content: space-between;
+
+}
+
+
+.text3{
+width: 250px;
+height: 250px;
+margin-left: 100px;
+
+
+
+}
+
+.p1{
+
+padding: 10px;
+padding-bottom: 2px;
+
+}
+
+.mtavari{
+
+width: 1000px;
+height: 800px;
+
+display: flex;
+direction: row;
+justify-content: space-between;
+
+   
+    }
+
+.first{
+
+width: 300px;
+height: 750px;
+
+}
+
+.p1{
+padding-top: 20px;
+
+}
+
+.ppp1{
+    padding-bottom: 38px;
+    padding-top: 38px;
+}
+
+.img6{
+
+width: 300px;
+height: 200px;
+
+}
+
+.second{
+width: 300px;
+height: 750px;
+
+}
+
+
+.third{
+
+    width: 300px;
+    height: 750px;
+
+}
+
+.p2{
+padding-top: 20px;
+
+}
+
+.ps1{
+
+    padding-bottom: 38px;
+    padding-top: 38px;
+
+}
+
+.pp2{padding-top: 38px;
+margin-bottom: 38px;}
+
+
+.img7{
+
+    width: 300px;
+height: 200px;
+
+}
+
+.img8{width: 300px;
+    height: 200px;
+}
+
+.p3{
+padding-top: 20px;
+
+}
+
+.pp3{
+    padding-top: 38px;
+}
+
+.imglast{
+    width: 298px;
+    height: 200px;
+}
+
+.plast{
+padding-top: 20px;
+
+}
+
+.pplast{
+padding-top: 38px;
+padding-bottom: 38px;
+}
+
+.last{
+padding-top: 36px;
+
+}
+
